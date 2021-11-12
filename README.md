@@ -12,25 +12,10 @@
 ## 내용
 
 face_recognition  
-* Cascades(검출을 위한 분류기생성을 위한 파일)  
-   * haarcascade_frontalface_default.xml    
-   * haarcascade_mcs_mouth.xml    
-   * haarcascade_mcs_nose.xml    
-   * etc    
-  
-* FaceDetection    
-
-   * 01_facedetection.py : 얼굴 인식    
-   * 02_nosedetection.py : 코 인식  
-   * 03_noseandmouthdetection.py : 마스크 작용 여부를 위한 얼굴, 코, 입 인식    
-     
-* FacialRecognition  
-   * 01_check_cam.py  : 캠 확인  
-   * 02_face_detection.py : 얼굴 인식 확인    
-   * 03_face_makeID.py : 얼굴에 맞는 ID 생성    
-   * 04_face_training.py : 이미지 학습    
-   * 05_face_recognition.py  : ID를 통한 얼굴인식  
-   * 06_face_recognition_tkinter.py  : 간단한 GUI  
+* 01_최근_7일_코로나현황  
+* 02_7일_신규_확진자수_시각화
+* 03_지역별_코로나_현황
+* 04_지역별_데이터_분석
   
           
           
