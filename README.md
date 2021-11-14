@@ -1,7 +1,8 @@
 # covid19-analysis-and-visualization
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
- 
+---
+코로나 현황을 실시간으로 네이버에서 크롤링하고 데이터를 저장, 시각화하기 위한 프로젝트
 ---
 ## Contents
 ### 1. 최근 일주일간 코로나 발생 관련 분석
