@@ -16,22 +16,37 @@
 ## 최근 일주일간 코로나 발생 관련 분석  
   
 ### 크롤링할 window
-![](img/1-0.png)
-### dataframe 화
+<img src="/img/1-0.png" width="500" height="500">  
+
+### dataframe 화  
+
 ![](img/1-1.png)
 
+### 시각화
+<img src="/img/1-2.png" width="700" height="500">  
+<img src="/img/1-3.png" width="700" height="500">  
 
-2. 7일_신규_확진자수_시각화
-#### 실행장면
 
-
-
+---
 ## 지역 관련 코로나 분석  
-1. 지역별_코로나_현황
-#### 실행장면
+### 크롤링할 window
+<img src="/img/2-0.png" width="500" height="500">  
 
-2. 지역별_데이터_분석
-#### 실행장면
+### dataframe 화  
+
+<img src="/img/2-1.png" width="400" height="600">  
+<img src="/img/2-2.png" width="600" height="600">  
+
+### 시각화
+
+<img src="/img/2-3.png" width="700" height="700">  
+
+### 시각화 개선 1  
+<img src="/img/2-4.png" width="700" height="700">  
+  
+### 시각화 개선 2
+<img src="/img/2-5.png" width="700" height="700">  
+
 
 
 ## 정보
